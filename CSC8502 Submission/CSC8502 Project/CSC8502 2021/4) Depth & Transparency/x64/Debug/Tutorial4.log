@@ -1,5 +1,0 @@
-﻿nclgl.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'nclgl.lib(stb_image_aug.obj)' or at 'C:\Uni\Graphics\CSC8502 2021\x64\Debug\SOIL.pdb'; linking object as if no debug info
-nclgl.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'nclgl.lib(SOIL.obj)' or at 'C:\Uni\Graphics\CSC8502 2021\x64\Debug\SOIL.pdb'; linking object as if no debug info
-nclgl.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'nclgl.lib(image_helper.obj)' or at 'C:\Uni\Graphics\CSC8502 2021\x64\Debug\SOIL.pdb'; linking object as if no debug info
-nclgl.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'nclgl.lib(image_DXT.obj)' or at 'C:\Uni\Graphics\CSC8502 2021\x64\Debug\SOIL.pdb'; linking object as if no debug info
-  Tutorial4.vcxproj -> C:\Uni\Graphics\CSC8502 2021\x64\Debug\Tutorial 04 - Depth and Transparency.exe
