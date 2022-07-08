@@ -1,0 +1,2 @@
+C:\Uni\Graphics\CSC8502 2021\x64\Debug\nclgl.pdb
+C:\Uni\Graphics\CSC8502 2021\nclgl\x64\Debug\nclgl.pdb

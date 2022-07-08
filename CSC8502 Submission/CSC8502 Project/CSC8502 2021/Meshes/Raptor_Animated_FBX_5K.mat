@@ -1,0 +1,15 @@
+MeshMat
+1
+2
+3
+RaptorBodyC
+2
+Diffuse:/PBRVelociraptor/Textures/2K/Raptor_PatternC_Albedo.png
+Bump:/PBRVelociraptor/Textures/2K/Raptor_Normal.png
+RaptorEyesClawsTeethSpikes
+2
+Diffuse:/PBRVelociraptor/Textures/1K/Other_Albedo.png
+Bump:/PBRVelociraptor/Textures/1K/Other_Normal.png
+0
+1
+0

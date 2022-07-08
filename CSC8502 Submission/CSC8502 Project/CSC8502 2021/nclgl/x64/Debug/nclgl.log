@@ -1,0 +1,3 @@
+﻿  Camera.cpp
+C:\Users\b8014633\Graphics\test2\CSC8502 2021\nclgl\Camera.cpp(99,15): warning C4305:  '+=': truncation from 'double' to 'float'
+  nclgl.vcxproj -> C:\Users\b8014633\Graphics\test2\CSC8502 2021\x64\Debug\nclgl.lib
